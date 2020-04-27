@@ -1,7 +1,5 @@
-# hello-world
-beginig of first repository
-Hello,
+Hello Friends,
 
-     This is Nataraja murthy Muthoju, computer science student from JNTU, Now I'm learning new technologies and working on web development.
+         It's yoursNataraj, This channel will show you the way to write code, the way to solve programs and the way to learn interesting ones.
 
-Thank you.
+Be happy... & Keep smiling...
